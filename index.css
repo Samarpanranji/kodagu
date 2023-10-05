@@ -261,86 +261,55 @@ span.next:hover,span.prev:hover{
     word-spacing: 5px;
     line-height: 35px;
 }
-.fallsmenu{
-    width: 15%;
-    height: 15%;
-    margin-top:10%;
-    margin-left: 40%;
-    margin-right: auto;
-    border-radius:50%;
-}
-.whater{
-    margin-right: auto;
-    margin-left: 41%;
-    font-size: large;
-}
+
+
 .don{
     text-decoration: none;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:silver;
 }
-.hillsmenu{
-    width: 15%;
-    height: 15%;
-    margin-top:3%;
-    margin-left: 40%;
-    margin-right: auto;
-    border-radius:50%;
-}
-.station{
-    margin-right: auto;
-    margin-left: 42%;
-    font-size: large;
-    margin-bottom: 2%;
-}
+
+
 .viji{
     text-decoration: none;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:silver;
 }
-.gamesmenu{
-    width: 15%;
-    height: 15%;
-    margin-top:2%;
-    margin-left: 40%;
-    margin-right: auto;
-    border-radius:50%;
 
-}
-.game{
-    margin-right: auto;
-    margin-left: 40%;
-    font-size: large;
-    margin-bottom: 2%;
-}
+
 .banu{
     text-decoration: none;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:silver;
 }
-.aboutmenu{
-    width: 15%;
-    height: 15%;
-    margin-top:2%;
-    margin-left: 40%;
-    margin-right: auto;
-    border-radius:50%;
 
-}
-.about{
-    margin-right: auto;
-    margin-left: 45%;
-    font-size: large;
-    margin-bottom: 2%;
-}
+
 .manu{
     text-decoration: none;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:silver;
+}
+buttons{
+    display: inline-block;
+    background-color:transparent;
+    color:black;
+    border:0cqmax;
+    cursor: pointer;
+    padding:10px 20px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family:myfont;
+   
+}
+.ram{
+            
+    width: 200px;
+    height:150px;
+    border-radius:80px;
 }
 
 
