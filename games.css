@@ -1,0 +1,301 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+
+}
+.games{
+    /*width: 100%;
+    min-height: 70vh;
+    display:flex;*/
+    justify-content: center;
+    background-color: black;
+}
+.trekking h1.top{
+    padding-top: 2%;
+    color:darkred;
+    text-align: center;
+    font-style:italic;
+    font-size:250%;
+}
+.trekking img{
+    width:60% ;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.trekking h1.top2{
+    padding-top: 2%;
+    color:rgb(83, 6, 147);
+    padding-left: 10%;
+    text-align: left;
+    font-style:normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.tr{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.river h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.river img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ri{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.camping h1{
+    padding-top:8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.camping img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ca{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.jeep  h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.jeep img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.je{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.ziplining  h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.ziplining img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.zi{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.quad h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.quad img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.qu{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.microlight h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.microlight img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.mi{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.kayaking h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.kayaking img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ka{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.rock h1{
+    padding-top: 8%;
+    color:rgb(83, 6, 147);
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.rock img{
+     width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ro{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+}
+.me{
+    width: 400px;
+    height: 50px;
+    display:inline-block;
+    text-align: left;
+}
+
+.you{
+    width: 400px;
+    height: 50px;
+    display:inline-block;
+    text-align: right;
+}
+button:hover{
+    color:blue;
+}
+button-container{
+    display: inline-block;
+}
+button{
+    margin-top: 5%;
+    display: inline-block;
+    background-color:transparent;
+    color:rgb(238, 233, 233);
+    border:0cqmax;
+    cursor: pointer;
+    padding:10px 20px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family:myfont;
+    margin-left: 30%;
+}
+
+

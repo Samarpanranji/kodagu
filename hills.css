@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+
+}
+.hills{
+    /*width: 100%;
+    min-height: 70vh;
+    display:flex;*/
+    justify-content: center;
+    background-color: black;
+}
+.brahmagiri h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.brahmagiri img{
+    
+    /*width: 20%;
+    height: 20%;*/
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    /*border-radius:10px;*/
+}
+.br{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.Tadiandamol h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.Tadiandamol img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ta{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.mandalpatti h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.mandalpatti img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ma{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.nishani h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.nishani img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ni{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.pushpagiri h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.pushpagiri img{
+    
+    width: 30%;
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.pu{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.chomakund h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.chomakund img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ch{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.kabbe h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.kabbe img{
+    
+    width: 20%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ka{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.kunda h1{
+    padding-top: 2%;
+    color:rgb(49, 226, 170);
+    text-align: center;
+    font-style:initial;
+    font-size:xx-large;
+}
+.kunda img{
+    
+    width: 30%;
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.ku{
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+
+.me{
+    width: 400px;
+    height: 50px;
+    display:inline-block;
+    text-align: left;
+}
+
+.you{
+    width: 400px;
+    height: 50px;
+    display:inline-block;
+    text-align: right;
+}
+button:hover{
+    color:blue;
+}
+button-container{
+    display: inline-block;
+}
+button{
+    margin-top: 5%;
+    display: inline-block;
+    background-color:transparent;
+    color:rgb(238, 233, 233);
+    border:0cqmax;
+    cursor: pointer;
+    padding:10px 20px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family:myfont;
+    margin-left: 30%;
+}
+
+
+

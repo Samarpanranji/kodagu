@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+
+}
+.falls{
+    /*width: 100%;
+    min-height: 70vh;
+    display:flex;*/
+    justify-content: center;
+    background-color: black;
+}
+.ab{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.abbey img{
+    
+    width: 25%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.abbey h1{
+    padding-top: 2%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.ir{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.iruppu img{
+    
+    width: 20%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.iruppu h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.ma{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.mallalli img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.mallalli h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.ch{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.chelavara img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.chelavara h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.bu{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.burude img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.burude h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.na{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.napandapole img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.napandapole h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.de{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.devarakolli img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.devarakolli h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.dee{
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size:150%;
+    font-display: block;
+    font-weight: 500;
+    word-spacing: 5px;
+    line-height: 35px;
+    
+}
+.devaragundi img{
+    
+    width: 30%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius:10px;
+}
+.devaragundi h1{
+    padding-top: 8%;
+    color:bisque;
+    text-align: center;
+    font-style: oblique;
+    font-size:xx-large;
+}
+.me{
+    width: 400px;
+    height: 50px;
+    display:inline-block;
+    text-align: left;
+}
+
+.you{
+    width: 400px;
+    height: 50px;
+    display:inline-block;
+    text-align: right;
+}
+button:hover{
+    color:blue;
+}
+button-container{
+    display: inline-block;
+}
+button{
+    margin-top: 5%;
+    display: inline-block;
+    background-color:transparent;
+    color:rgb(238, 233, 233);
+    border:0cqmax;
+    cursor: pointer;
+    padding:10px 20px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family:myfont;
+    margin-left: 30%;
+}
