@@ -265,34 +265,13 @@ span.next:hover,span.prev:hover{
 
 .don{
     text-decoration: none;
-    font-size: larger;
+    font-size:30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:silver;
 }
 
 
-.viji{
-    text-decoration: none;
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:silver;
-}
 
-
-.banu{
-    text-decoration: none;
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:silver;
-}
-
-
-.manu{
-    text-decoration: none;
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:silver;
-}
 buttons{
     display: inline-block;
     background-color:transparent;
@@ -301,7 +280,7 @@ buttons{
     cursor: pointer;
     padding:10px 20px;
     border-radius: 20px;
-    font-size: 50px;
+    font-size: 80px;
     font-family:myfont;
    
 }
