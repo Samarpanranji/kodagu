@@ -8,11 +8,11 @@ body{
 
 }
 .hills{
-    /*width: 100%;
-    min-height: 70vh;
-    display:flex;*/
     justify-content: center;
     background-color: black;
+}
+.img1{
+    width:1000px;
 }
 .brahmagiri h1{
     padding-top: 2%;
